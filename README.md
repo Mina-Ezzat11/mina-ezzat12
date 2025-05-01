@@ -42,10 +42,10 @@
     </header>
 
     <main>
-        <section class="section">
+        <div style="background-color:yellow;>
             <h2>مقدمة</h2>
             <p>هرم خوفو، المعروف أيضًا بهرم الجيزة الأكبر، هو أضخم هرم في مصر وأكبر هرم في العالم القديم. يقع في الجيزة، وهو أحد عجائب العالم السبع القديمة.</p>
-        </section>
+        </div>
 
         <section class="section">
             <h2>بناء الهرم</h2>
